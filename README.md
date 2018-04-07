@@ -1,2 +1,18 @@
-# Login-register_app
-Login access control using Node.js, Express and Passport
+# Node.js Loginapp
+
+Start mongo
+
+```sh
+$ mongod
+
+dev-dependencies 
+
+```sh
+$ npm install
+```
+
+start server
+
+```sh
+$ npm start
+```
